@@ -86,10 +86,9 @@
 <h3>https://i.imgur.com/JarYuTR.png
 
   
-![Pollo](https://user-images.githubusercontent.com/79612599/191327948-11af9b0e-3ce9-48a7-ab34-aaae46621f45.png)
-<h3>https://i.imgur.com/ZYXmv6R.png
-
-  
 ![res](https://user-images.githubusercontent.com/79612599/191327950-01515cdc-a29f-41ee-87b0-0194d3218c8d.png)
 <h3>https://i.imgur.com/Gx3PTIW.png
 
+
+![Pollo](https://user-images.githubusercontent.com/79612599/191542961-007216bb-db8f-4a2f-ab57-a3636ab079df.png)
+<h3>https://i.imgur.com/B7SDYqu.png
