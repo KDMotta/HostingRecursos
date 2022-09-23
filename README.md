@@ -123,3 +123,37 @@
 
 ![Piña](https://user-images.githubusercontent.com/79612599/191998356-f4b3a47a-f65f-42b5-ad26-11ded33cf3fb.png)
 <h3>https://i.imgur.com/hclo8wA.png
+
+
+<img width="1120" alt="avena2" src="https://user-images.githubusercontent.com/79612599/192000863-f9b5a4ca-61fd-44f0-9295-26a019778633.png">
+<h3>https://i.imgur.com/49L3aOT.png
+
+
+<img width="1120" alt="calabaza2" src="https://user-images.githubusercontent.com/79612599/192000867-905e8cdf-9467-4c8a-b916-f14b35328558.png">
+<h3>https://i.imgur.com/e4WrKif.png
+
+
+<img width="1120" alt="dona2" src="https://user-images.githubusercontent.com/79612599/192000870-c082b2bb-d5cc-463a-ad1d-971d6b76dc70.png">
+<h3>https://i.imgur.com/5dMgsPs.png
+
+
+<img width="1120" alt="pan blanco2" src="https://user-images.githubusercontent.com/79612599/192000872-8a2a9f18-d06f-43c7-a866-cc2b23e7f93b.png">
+<h3>https://i.imgur.com/oV3wOcH.png
+
+
+<img width="1120" alt="Banano2" src="https://user-images.githubusercontent.com/79612599/192000887-96f7df7d-02bc-4af3-8498-b4518b3c027c.png">
+<h3>https://i.imgur.com/L2jlzEg.png
+
+
+<img width="1120" alt="cebolla2" src="https://user-images.githubusercontent.com/79612599/192000888-a3eed6b2-198a-47c2-970c-e71d152071e8.png">
+<h3>https://i.imgur.com/IvCQKxm.png
+
+
+<img width="1120" alt="galletas saladas2" src="https://user-images.githubusercontent.com/79612599/192000890-ea8fccc8-a228-47d0-b7ad-b84cc9bac0e8.png">
+<h3>https://i.imgur.com/6il2W7p.png
+
+
+<img width="1120" alt="piña2" src="https://user-images.githubusercontent.com/79612599/192000894-b97986b6-02f2-4ad6-ac0f-5981fa2a4d54.png">
+<h3>https://i.imgur.com/lm5v9vu.png
+
+
