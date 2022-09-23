@@ -92,3 +92,34 @@
 
 <img width="1120" alt="Pollo2" src="https://user-images.githubusercontent.com/79612599/191982374-aec2c6db-8e6c-4385-a457-82f28b5e7df2.png">
 <h3>https://i.imgur.com/pT5oBX0.png
+
+
+![avena](https://user-images.githubusercontent.com/79612599/191998302-776f32f3-0478-48f5-acd3-47b6cf70ee4a.png)
+<h3>https://i.imgur.com/zUaiFl4.png
+
+
+![Calabaza](https://user-images.githubusercontent.com/79612599/191998305-c509c5ff-5eb5-4a30-a969-1c152c46e5ad.png)
+<h3>https://i.imgur.com/HkmXNUo.png
+
+
+![dona](https://user-images.githubusercontent.com/79612599/191998310-861c5c62-1dbf-461b-b8f5-692369abf2e9.png)
+<h3>https://i.imgur.com/vLm9209.png
+
+
+![pan blanco](https://user-images.githubusercontent.com/79612599/191998314-452fcc4a-a87b-40d1-99b1-5465cf78555a.png)
+<h3>https://i.imgur.com/UAa92KI.png
+
+
+![banano](https://user-images.githubusercontent.com/79612599/191998343-fdc3ed82-de0f-400d-9c03-29de279e0b5c.png)
+<h3>https://i.imgur.com/UfnOyUK.png
+
+
+![Cebolla](https://user-images.githubusercontent.com/79612599/191998348-4251fe9b-586e-4ed8-87c8-732a14747071.png)
+<h3>https://i.imgur.com/5AtJXMu.png
+
+
+![Galetas saladas](https://user-images.githubusercontent.com/79612599/191998351-f3ee170d-214f-4475-a525-ede75cad3661.png)
+<h3>https://i.imgur.com/UufXBzG.png
+
+![Piña](https://user-images.githubusercontent.com/79612599/191998356-f4b3a47a-f65f-42b5-ad26-11ded33cf3fb.png)
+<h3>https://i.imgur.com/hclo8wA.png
